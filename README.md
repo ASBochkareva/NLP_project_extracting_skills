@@ -261,7 +261,7 @@ Recall: 0.729 (модель находит 72.9% всех существующи
 Николаев И.Е. Метод извлечения знаний и навыков/компетенций из текстов
 требований вакансий // Онтология проектирования. 2023. Т.13, №2(48).
 С.282-293. DOI:
-[10.18287/2223-9537-2023-13-2-282-293](10.18287/2223-9537-2023-13-2-282-293){.uri}
+[10.18287/2223-9537-2023-13-2-282-293](10.18287/2223-9537-2023-13-2-282-293)
 
 KOMAROVA L.A., SOLOVIEV V.I., KOLOSOV A.M. Сравнение языковых моделей в
 задаче извлечения навыков из вакансий и резюме // Современные
@@ -271,11 +271,9 @@ ISSN 2411-1473
 DeepPavlov Team. Синтаксический парсер DeepPavlov \[Электронный
 ресурс\]. URL:
 <http://docs.deeppavlov.ai/en/master/features/models/syntaxparser.html>
-(дата обращения: 2025-06-18)
 
 Dale D. Маленький и быстрый BERT для русского языка \[Электронный
-ресурс\] // Habr. 2021. URL: <https://habr.com/ru/post/562064/> (дата
-обращения: 2025-06-18)
+ресурс\] // Habr. 2021. URL: <https://habr.com/ru/post/562064/> 
 
 Burtsev M., Anh Le. A Deep Neural Network Model for the Task of Named
 Entity Recognition // International Journal of Machine Learning and
